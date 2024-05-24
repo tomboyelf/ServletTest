@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ServletTest02</name>
+=======
+	<name>ServletTest</name>
+>>>>>>> branch 'master' of https://github.com/tomboyelf/ServletTest.git
 	<comment></comment>
 	<projects>
 	</projects>

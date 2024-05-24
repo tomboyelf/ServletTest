@@ -28,7 +28,7 @@
 <% 
 	List<Tweet> tweets=(List<Tweet>) request.getAttribute("tweets");
     if (tweets != null) {
-        for (Tweet t : tweets) {
+      for (Tweet t : tweets) {
 %>        		
         		
 			<li>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="ServletTest02">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="ServletTest02"/>
         <property name="java-output-path" value="/ServletTest02/build/classes"/>
+=======
+    <wb-module deploy-name="ServletTest">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="ServletTest"/>
+        <property name="java-output-path" value="/ServletTest/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/tomboyelf/ServletTest.git
     </wb-module>
 </project-modules>
